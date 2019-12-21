@@ -55,7 +55,8 @@ tab_e = [
   ', bo tak się uczy w państwowej szkole',
   ', bo głupich jest więcej niż mądrych',
   ', bo chcą tworzyć raj na Ziemi',
-  ', bo chcą niszczyć cywilizację białego człowieka']
+  ', bo chcą niszczyć cywilizację białego człowieka',
+  ', bo bez tego (tfu!) demokracja nie istnieje']
 
 tab_f = [
   ' przez kolejne kadencje.',
