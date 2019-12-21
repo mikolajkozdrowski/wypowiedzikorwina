@@ -18,7 +18,7 @@ tab_b = [' przedstawiciele czerwonej hołoty', ' ci wszyscy (tfu!) geje']
 tab_c = [' zupełnie bezkarnie', ' całkowicie bezczelnie']
 tab_d = [' nawołują do podniesienia podatków', ' próbują wyrzucić kierowców z miast']
 tab_e = [', bo dzięki temu mogą kraść', ', bo dostają za to pieniądze']
-tab_f = ['przez kolejne kadencje.', ', o czym się nie mówi.']
+tab_f = [' przez kolejne kadencje.', ', o czym się nie mówi.']
 
 output = tab_a[rand(min, max)]
 output += tab_b[rand(min, max)]
