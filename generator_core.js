@@ -26,4 +26,4 @@ output += tab_d[rand(min, max)]
 output += tab_e[rand(min, max)]
 output += tab_f[rand(min, max)]
 
-console.log(output)
+return output
