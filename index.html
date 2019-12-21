@@ -1,39 +1,57 @@
 
 <html>
-  
+
 <style>
 #footer {
     position: fixed;
     bottom: 0;
     width: 100%;
     background: "gray";
- 
+
 }
-  
+
 #btn {
-  background-color:
-#f44336;
-font-size: large;
-padding: 24px;
-color: white;
-  }
+  background-color: #f44336;
+  font-size: large;
+  padding: 24px;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+#quote_text
+{
+  font-style: italic;
+  border-style: dotted;
+  border-radius: 10px;
+  border-color: gray;
+  font-size: x-large;
+}
 </style>
-  
-  
+
+
 <head>
+
   <h1>Stwórz swoją własną wypowiedź Janusza Korwina-Mikke!</h1>
 </head>
 
 <body>
-  
-  <p><button type="button" id="btn">Generuj!</button></p>
- 
-<div id="text"></div>
+
+  <p><button type="button" id="btn" onclick="setText()">Generuj!</button></p>
+
+<div id="quote_text"></div>
 </body>
 
 <div id="footer">
   Created by mrater, https://github.com/mrater, 2019
 </div>
-  
+<script type="text/javascript" src="generator_core.js"></script>
+<script>
+function setText()
+{
+  var text = generate_quote();
+  document.getElementById("quote_text").innerHTML = text;
+}
+
+</script>
 
 </html>
