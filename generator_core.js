@@ -1,7 +1,7 @@
 
 
 
-generate_qoute = function(max)
+generate_quote = function(max)
 {
 var output = "";
 min = 0
