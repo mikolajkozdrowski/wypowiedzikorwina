@@ -1,15 +1,16 @@
 
+
+
+generate_qoute = function(max)
+{
 var output = "";
-
-
 min = 0
 max = 1
 //return number integer
-rand = function(min, max)
+rand = function(min, up)
 {
-  return min + Math.floor(Math.random() * (max - min + 1));
+  return min + Math.floor(Math.random() * (up - min + 1));
 }
-
 
 //quotes of Janusz Korwin Mikke
 tab_a = ['Ja chcę powiedzieć jedną rzecz:', 'Trzeba powiedzieć jasno:']
@@ -27,3 +28,4 @@ output += tab_e[rand(min, max)]
 output += tab_f[rand(min, max)]
 
 return output
+}
