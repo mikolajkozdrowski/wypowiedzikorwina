@@ -19,7 +19,8 @@ tab_a = [
    'Jak powiedział wybitny krakowianin, Stanisław Lem:',
    'Proszę mnie źle nie zrozumieć: ',
    'Ja chciałem przypomnieć państwu, że',
-   'Niech państwo nie mają złudzeń:' ]
+   'Niech państwo nie mają złudzeń:',
+    'Powiedzmy to wyraźnie: ']
 
 tab_b = [
   ' przedstawiciele czerwonej hołoty',
