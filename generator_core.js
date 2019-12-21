@@ -63,7 +63,7 @@ tab_f = [
   ' przez kolejne kadencje.',
   ', o czym się nie mówi.',
   ' i właśnie dlatego Europa umiera.',
-  ' ale przyjdą muzułmanie i zrobią porządek.',
+  ', ale przyjdą muzułmanie i zrobią porządek.',
   ' - tak samo zresztą jak za Hitlera.',
   ' - proszę zobaczyć co się dzieje na Zachodzie, jeśli mi państwo nie wierzą',
   ' ,co sto lat temu nie przyszłoby nikomu do głowy.']
