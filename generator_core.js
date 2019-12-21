@@ -5,7 +5,7 @@ generate_quote = function(max)
 {
 var output = "";
 min = 0
-max = 7
+max = 6
 //return number integer
 rand = function(min, up)
 {
