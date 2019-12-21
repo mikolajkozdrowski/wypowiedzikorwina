@@ -52,7 +52,7 @@ tab_d = [
 tab_e = [
   ', bo dzięki temu mogą kraść',
   ', bo dostają za to pieniądze',
-  ', bo tak się uczy w państwowej szkole'
+  ', bo tak się uczy w państwowej szkole',
   ', bo głupich jest więcej niż mądrych',
   ', bo chcą tworzyć raj na Ziemi',
   ', bo chcą niszczyć cywilizację białego człowieka']
