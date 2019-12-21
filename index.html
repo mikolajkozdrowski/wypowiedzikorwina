@@ -18,6 +18,11 @@
   color: white;
   cursor: pointer;
 }
+#quote_text
+{
+  font-style: italic;
+  font-size: large;
+}
 </style>
 
 
@@ -30,7 +35,7 @@
 
   <p><button type="button" id="btn" onclick="setText()">Generuj!</button></p>
 
-<div id="text"></div>
+<div id="quote_text"></div>
 </body>
 
 <div id="footer">
@@ -41,7 +46,7 @@
 function setText()
 {
   var text = generate_quote();
-  document.getElementById("text").innerHTML = text;
+  document.getElementById("quote_text").innerHTML = text;
 }
 
 </script>
