@@ -5,7 +5,7 @@ generate_quote = function(max)
 {
 var output = "";
 min = 0
-max = 6
+max = 7
 //return number integer
 rand = function(min, up)
 {
@@ -20,7 +20,8 @@ tab_a = [
    'Proszę mnie źle nie zrozumieć: ',
    'Ja chciałem przypomnieć państwu, że',
    'Niech państwo nie mają złudzeń:',
-    'Powiedzmy to wyraźnie: ']
+    'Powiedzmy to wyraźnie: ',
+    'Szanowni państwo,']
 
 tab_b = [
   ' przedstawiciele czerwonej hołoty',
@@ -29,7 +30,8 @@ tab_b = [
   ' tak zwani ekolodzy',
   ' ci wszyscy (tfu!) demokraci',
   ' agenci bezpieki',
-  ' feminazistki'
+  ' feminazistki',
+  ' fanatyczni socjaliści'
   ]
 tab_c = [
   ' zupełnie bezkarnie',
@@ -38,7 +40,8 @@ tab_c = [
   ' celowo i świadomie',
   ' z premedytacją',
   ' od czasów Okrągłego Stołu',
-  ' w ramach postępu'
+  ' w ramach postępu',
+  ' niszcząć polską rodzinę'
 
 ]
 tab_d = [
@@ -48,7 +51,8 @@ tab_d = [
   ' głoszą brednie o globalnym ociepleniu',
   ' zakazują posiadania broni',
   ' nie dopuszczają prawicy do władzy',
-  ' uczą dzieci homoseksualizmu']
+  ' uczą dzieci homoseksualizmu',
+  ' propagują polityczną poprawność']
 
 tab_e = [
   ', bo dzięki temu mogą kraść',
@@ -57,7 +61,8 @@ tab_e = [
   ', bo głupich jest więcej niż mądrych',
   ', bo chcą tworzyć raj na Ziemi',
   ', bo chcą niszczyć cywilizację białego człowieka',
-  ', bo bez tego (tfu!) demokracja nie istnieje']
+  ', bo bez tego (tfu!) demokracja nie istnieje',
+  ', bo chcą przywrócić (tfu!) socjalizm']
 
 tab_f = [
   ' przez kolejne kadencje.',
@@ -66,7 +71,8 @@ tab_f = [
   ', ale przyjdą muzułmanie i zrobią porządek.',
   ' - tak samo zresztą jak za Hitlera.',
   ' - proszę zobaczyć co się dzieje na Zachodzie, jeśli mi państwo nie wierzą',
-  ' ,co sto lat temu nie przyszłoby nikomu do głowy.']
+  ', co sto lat temu nie przyszłoby nikomu do głowy.',
+  '. Nawet za Stalina była większa wolność']
 
 output = tab_a[rand(min, max)]
 output += tab_b[rand(min, max)]
