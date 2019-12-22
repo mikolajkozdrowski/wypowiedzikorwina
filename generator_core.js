@@ -72,7 +72,7 @@ tab_f = [
   ' - tak samo zresztą jak za Hitlera.',
   ' - proszę zobaczyć co się dzieje na Zachodzie, jeśli mi państwo nie wierzą',
   ', co sto lat temu nie przyszłoby nikomu do głowy.',
-  '. Nawet za Stalina była większa wolność']
+  '- lepiej było nawet za Stalina!']
 
 output = tab_a[rand(min, max)]
 output += tab_b[rand(min, max)]
