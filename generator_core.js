@@ -41,7 +41,7 @@ tab_c = [
   ' z premedytacją',
   ' od czasów Okrągłego Stołu',
   ' w ramach postępu',
-  ' niszcząć polską rodzinę'
+  ' niszcząc polską rodzinę'
 
 ]
 tab_d = [
