@@ -1,3 +1,6 @@
-# Generator of Janusz Korwin-Mikke sentences
+# Generator wypowiedzi Janusza Korwina-Mikke
 
-This application lets you generate your own sentence of the leader of the most popular party in Poland, the great lord, etc., etc.
+https://mrater.github.io/wypowiedzikorwina/
+
+Ta aplikacja pozwala ci wygenerować swoją własną, eksluzywną, nigdzie niepublikowaną wypowiedź JKM!
+Bazuje ona na javascriptowych tablicach.
